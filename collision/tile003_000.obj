@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 31.01.2016 16:05:35
+
+#
+# object TerrainMesh
+#
+
+v  164.5271 0.0000 -300.0200
+v  135.4929 0.0000 -290.3419
+v  125.8148 0.0000 -300.0200
+# 3 vertices
+
+g TerrainMesh
+f 3 2 1 
+# 0 polygons - 1 triangles
+
